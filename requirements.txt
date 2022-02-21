@@ -1,0 +1,7 @@
+defusedxml==0.6.0
+ffmpy==0.3.0
+m3u8==1.0.0
+protobuf==3.19.3
+pycryptodomex==3.12.0
+requests==2.25.1
+youtube_dl==2021.12.17
